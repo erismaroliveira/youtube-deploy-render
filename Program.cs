@@ -21,6 +21,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+using var scope = app.Services.CreateScope();
+var productContext = scope.ServiceProvider.GetRequiredService<ApiProductsDbContext>();
+productContext.Database.Migrate();
+
 // app.UseHttpsRedirection();
 
 app.UseAuthorization();
