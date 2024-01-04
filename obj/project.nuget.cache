@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLDc0a3buUe7sXUii5Enj4bFhQV52OjRVtFMXAd5Mam50dIlMkHIq+jLGIJ317TptlaGWs4l00aRfTXtSn8TTA==",
+  "dgSpecHash": "VwmmevbyXqQ+g2O4qBk+0PS2N6nmD2CJnv+kXJ3cmTpCAGUM+r8n/de+dWg4wbmzcf/M9e0NQ8/GqmpLb/hTBw==",
   "success": true,
-  "projectFilePath": "c:\\Development\\ApiProducts\\ApiProducts.csproj",
+  "projectFilePath": "C:\\Development\\ApiProducts\\ApiProducts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erism\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\erism\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

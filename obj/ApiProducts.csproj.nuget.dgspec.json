@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Development\\ApiProducts\\ApiProducts.csproj": {}
+    "C:\\Development\\ApiProducts\\ApiProducts.csproj": {}
   },
   "projects": {
-    "c:\\Development\\ApiProducts\\ApiProducts.csproj": {
+    "C:\\Development\\ApiProducts\\ApiProducts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Development\\ApiProducts\\ApiProducts.csproj",
+        "projectUniqueName": "C:\\Development\\ApiProducts\\ApiProducts.csproj",
         "projectName": "ApiProducts",
-        "projectPath": "c:\\Development\\ApiProducts\\ApiProducts.csproj",
+        "projectPath": "C:\\Development\\ApiProducts\\ApiProducts.csproj",
         "packagesPath": "C:\\Users\\erism\\.nuget\\packages\\",
-        "outputPath": "c:\\Development\\ApiProducts\\obj\\",
+        "outputPath": "C:\\Development\\ApiProducts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

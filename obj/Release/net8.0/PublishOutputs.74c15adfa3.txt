@@ -1,0 +1,16 @@
+C:\Development\ApiProducts\bin\Release\net8.0\publish\ApiProducts.exe
+C:\Development\ApiProducts\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Development\ApiProducts\bin\Release\net8.0\publish\appsettings.json
+C:\Development\ApiProducts\bin\Release\net8.0\publish\ApiProducts.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\ApiProducts.runtimeconfig.json
+C:\Development\ApiProducts\bin\Release\net8.0\publish\ApiProducts.pdb
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Npgsql.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development\ApiProducts\bin\Release\net8.0\publish\ApiProducts.deps.json
