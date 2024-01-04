@@ -1,0 +1,22 @@
+@ApiProducts_HostAddress = http://localhost:5089
+
+###
+GET {{ApiProducts_HostAddress}}/api/products
+
+###
+POST {{ApiProducts_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+    "name": "Monitor LG 27",
+    "price": 1500.00
+}
+
+###
+PUT {{ApiProducts_HostAddress}}/api/products/65c8b512-a599-4c61-9074-f58885f4ed07
+Content-Type: application/json
+
+{
+    "name": "Monitor Samsung 27",
+    "price": 2500.00
+}
